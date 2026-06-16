@@ -1,0 +1,28 @@
+ID,Name,Titel,Wohnort,Region_BW,Geschlecht,Berufsfeld_1,Berufsfeld_2,Engagement_Inklusion,Engagement_International,Engagement_Ehrenamt,Bezug_VfB_Stuttgart
+P01,Asifa Akhtar,Prof. Dr.,Freiburg im Breisgau,Süd,w,Wissenschaft,,ja,ja,nein,nein
+P02,Marika Barth,,Stuttgart,Mitte,w,Zivilgesellschaft/NGO,,ja,ja,ja,nein
+P03,Stefan Barth,,Stuttgart,Mitte,m,Zivilgesellschaft/NGO,,ja,ja,ja,nein
+P04,Steffi Cornelius,,Beuren,Mitte,w,Kultur/Museum,,nein,nein,ja,nein
+P05,Norbert Gälle,,Vogt,Ost,m,Kultur/Musik,,nein,ja,ja,nein
+P06,Tanja Gönner,Ministerin a.D.,Bingen,Mitte,w,Politik,Zivilgesellschaft/NGO,ja,ja,ja,ja
+P07,Walter Hartmann,Dr.,Filderstadt,Mitte,m,Wissenschaft,Natur/Umwelt,nein,nein,ja,nein
+P08,Anke Helfrich,,Weinheim,Nord,w,Kultur/Musik,,ja,ja,ja,nein
+P09,Thomas Hitzlsperger,,München,außerhalb BW,m,Sport,,ja,nein,ja,ja
+P10,Monika Huber,,Achern,Süd,w,Zivilgesellschaft/NGO,,ja,nein,ja,nein
+P11,Niko Kappel,,Waiblingen,Mitte,m,Sport,Zivilgesellschaft/NGO,ja,ja,ja,nein
+P12,Friedrich Walter Keller,,Vogtsburg im Kaiserstuhl,Süd,m,Wirtschaft,Sport,nein,nein,ja,nein
+P13,Anna Koktsidou,,Stuttgart,Mitte,w,Medien,Zivilgesellschaft/NGO,ja,ja,ja,nein
+P14,Dominik Kuhn,,Reutlingen,Mitte,m,Kultur/Musik,,nein,nein,ja,nein
+P15,Peter Kurz,"OB a.D., Dr.",Mannheim,Nord,m,Politik,,nein,ja,ja,nein
+P16,Nisar Peter Malek,Prof. Dr.,Tübingen,Mitte,m,Wissenschaft,,nein,ja,nein,nein
+P17,Frank Peter Mastiaux,Dr.,Stuttgart,Mitte,m,Wirtschaft,,nein,nein,nein,nein
+P18,Elvira Menzer-Haasis,,Albstadt,Ost,w,Sport,,ja,nein,ja,nein
+P19,Klaus Michael Rückert,"Landrat a.D., Dr.",Loßburg,West,m,Politik,Zivilgesellschaft/NGO,nein,nein,ja,nein
+P20,Wolfgang Scheidtweiler,,Pforzheim,Nord,m,Wirtschaft,Kultur/Museum,nein,nein,ja,nein
+P21,Verena Schiltenwolf,,Reichenbach an der Fils,Mitte,w,Natur/Umwelt,,nein,nein,ja,nein
+P22,Kurt Schmalz,Dr.,Dornstetten,West,m,Wirtschaft,Zivilgesellschaft/NGO,nein,nein,ja,nein
+P23,Wolfgang Schmalz,,Dornstetten,West,m,Wirtschaft,Natur/Umwelt,nein,ja,ja,nein
+P24,Veronika Stoertzenbach,,Stuttgart,Mitte,w,Kultur/Musik,,nein,nein,ja,nein
+P25,Ingeborg Tress,,Hayingen,Ost,w,Wirtschaft,Natur/Umwelt,nein,nein,ja,nein
+P26,Franz Untersteller,Minister a.D.,Nürtingen,Mitte,m,Politik,Natur/Umwelt,nein,ja,ja,nein
+P27,Friedemann Vogel,,Stuttgart,Mitte,m,Kultur/Tanz,Wissenschaft,nein,ja,ja,nein

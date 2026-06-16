@@ -1,0 +1,38 @@
+Source,Target,Beziehungstyp,Verbindung,Gewicht
+P02,P03,personell,"Ehepaar, Mitgründer Agapedia Stiftung",3
+P22,P23,personell,"Brüder, gemeinsame Geschäftsführung J. Schmalz GmbH",3
+P06,P09,institutionell,Beide im Aufsichtsrat/Umfeld VfB Stuttgart,3
+P06,P12,institutionell,"Gönner im VfB-Aufsichtsrat, Keller ehem. DFB-Präsident",2
+P09,P12,institutionell,"Hitzlsperger VfB Stuttgart, Keller DFB-Präsident",2
+P01,P16,thematisch,"Beide Wissenschaft, biomedizinische Forschung BW",1
+P01,P07,thematisch,Beide Wissenschaft/Biologie,1
+P07,P16,thematisch,"Beide Wissenschaft, Forschung BW",1
+P16,P26,institutionell,"Malek Forum Gesundheitsstandort BW (gegr. v. Kretschmann), Untersteller Umweltminister unter Kretschmann",2
+P17,P26,institutionell,"Mastiaux Strategiedialog Automobilwirtschaft BW, Untersteller Umweltminister BW – beide Energiepolitik BW",2
+P17,P22,thematisch,"Beide Wirtschaft, Nachhaltigkeitsfokus BW",1
+P17,P23,thematisch,"Beide Wirtschaft, erneuerbare Energien / Nachhaltigkeit",1
+P22,P26,institutionell,"Schmalz GmbH Klimabündnis BW, Untersteller Umweltminister – gemeinsames Feld Nachhaltigkeit/Politik",2
+P23,P26,thematisch,Beide Nachhaltigkeit/erneuerbare Energien,1
+P19,P22,institutionell,"Rückert Landrat Freudenstadt, Schmalz Campus Schwarzwald Freudenstadt",3
+P02,P13,thematisch,"Beide Zivilgesellschaft, Integration/Migration, international",1
+P03,P13,thematisch,"Beide Zivilgesellschaft, Integration/Migration, international",1
+P10,P13,thematisch,"Beide Zivilgesellschaft, Integration/Geflüchtete",1
+P02,P10,thematisch,"Beide Zivilgesellschaft, humanitäre Hilfe",1
+P03,P10,thematisch,"Beide Zivilgesellschaft, humanitäre Hilfe",1
+P08,P24,thematisch,"Beide Musik/Kultur, Lehrtätigkeit an Hochschulen",1
+P08,P14,thematisch,Beide Musik/Kulturvermittlung,1
+P14,P24,thematisch,"Beide Kultur, Hochschullehre/Kulturvermittlung",1
+P24,P27,institutionell,"Stoertzenbach Uni Stuttgart, Vogel Uni Tübingen – beide Kultur an Universitäten",2
+P04,P20,thematisch,Beide Denkmalschutz/kulturelles Erbe BW,1
+P21,P26,thematisch,Beide Naturschutz/Umwelt BW,1
+P21,P19,institutionell,"Schiltenwolf Ministerium Ländlicher Raum BW, Rückert Landrat – gemeinsames Feld Naturschutz/Ländlicher Raum",2
+P07,P21,thematisch,Beide Naturschutz/Biodiversität BW,1
+P07,P25,thematisch,"Beide Natur/Nachhaltigkeit, Schwäbische Alb-Region",1
+P25,P21,thematisch,"Beide Natur/Umwelt, Schwäbische Alb-Region",1
+P11,P18,thematisch,"Beide Spitzensport, Engagement für Nachwuchs/Verband",1
+P11,P09,thematisch,"Beide Sport, Engagement für Inklusion/Vielfalt",1
+P15,P26,thematisch,"Beide Politik SPD/Grüne, Nachhaltigkeit/Stadtentwicklung, Landespolitik BW",1
+P06,P15,thematisch,"Beide Landespolitik BW, langjährige politische Führungsrollen",1
+P06,P26,thematisch,"Beide Landespolitik BW, Ministerebene",1
+P15,P19,thematisch,"Beide Kommunalpolitik BW, Führungsrollen",1
+P06,P19,thematisch,Beide Landespolitik/Kommunalpolitik BW,1
