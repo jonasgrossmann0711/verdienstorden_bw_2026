@@ -1,0 +1,70 @@
+ID,Typ,Label,Geschlecht,Titel,Wohnort,Region_BW,Berufsfeld_1,Berufsfeld_2,Engagement_Inklusion,Engagement_International,Bezug_VfB_Stuttgart,Org_Typ,Org_Ebene,Org_Sektor
+aakhtar,Person,Asifa Akhtar,w,Prof. Dr.,Freiburg im Breisgau,Süd,Wissenschaft,NA,ja,ja,nein,,,
+mbarth,Person,Marika Barth,w,keiner,Stuttgart,Mitte,Zivilgesellschaft/NGO,NA,ja,ja,nein,,,
+sbarth,Person,Stefan Barth,m,keiner,Stuttgart,Mitte,Zivilgesellschaft/NGO,NA,ja,ja,nein,,,
+scornelius,Person,Steffi Cornelius,w,keiner,Beuren,Mitte,Kultur/Museum,NA,nein,nein,nein,,,
+ngaelle,Person,Norbert Gälle,m,keiner,Vogt,Ost,Kultur/Musik,NA,nein,ja,nein,,,
+tgoenner,Person,Tanja Gönner,w,Ministerin a.D.,Bingen,Mitte,Politik,Zivilgesellschaft/NGO,ja,ja,ja,,,
+whartmann,Person,Walter Hartmann,m,Dr.,Filderstadt,Mitte,Wissenschaft,Natur/Umwelt,nein,nein,nein,,,
+ahelfrich,Person,Anke Helfrich,w,keiner,Weinheim,Nord,Kultur/Musik,NA,ja,ja,nein,,,
+thitzlsperger,Person,Thomas Hitzlsperger,m,keiner,München,außerhalb BW,Sport,NA,ja,nein,ja,,,
+mhuber,Person,Monika Huber,w,keiner,Achern,Süd,Zivilgesellschaft/NGO,NA,ja,nein,nein,,,
+nkappel,Person,Niko Kappel,m,keiner,Waiblingen,Mitte,Sport,Zivilgesellschaft/NGO,ja,ja,nein,,,
+fwkeller,Person,Friedrich Walter Keller,m,keiner,Vogtsburg im Kaiserstuhl,Süd,Wirtschaft,Sport,nein,nein,nein,,,
+akoktsidou,Person,Anna Koktsidou,w,keiner,Stuttgart,Mitte,Medien,Zivilgesellschaft/NGO,ja,ja,nein,,,
+dkuhn,Person,Dominik Kuhn,m,keiner,Reutlingen,Mitte,Kultur/Musik,NA,nein,nein,nein,,,
+pkurz,Person,Peter Kurz,m,"OB a.D., Dr.",Mannheim,Nord,Politik,NA,nein,ja,nein,,,
+npmalek,Person,Nisar Peter Malek,m,Prof. Dr.,Tübingen,Mitte,Wissenschaft,NA,nein,ja,nein,,,
+fpmastiaux,Person,Frank Peter Mastiaux,m,Dr.,Stuttgart,Mitte,Wirtschaft,NA,nein,nein,nein,,,
+emenzerhaasis,Person,Elvira Menzer-Haasis,w,keiner,Albstadt,Ost,Sport,NA,ja,nein,nein,,,
+kmrueckert,Person,Klaus Michael Rückert,m,"Landrat a.D., Dr.",Loßburg,West,Politik,Zivilgesellschaft/NGO,nein,nein,nein,,,
+wscheidtweiler,Person,Wolfgang Scheidtweiler,m,keiner,Pforzheim,Nord,Wirtschaft,Kultur/Museum,nein,nein,nein,,,
+vschiltenwolf,Person,Verena Schiltenwolf,w,keiner,Reichenbach an der Fils,Mitte,Natur/Umwelt,NA,nein,nein,nein,,,
+kschmalz,Person,Kurt Schmalz,m,Dr.,Dornstetten,West,Wirtschaft,Zivilgesellschaft/NGO,nein,nein,nein,,,
+wschmalz,Person,Wolfgang Schmalz,m,keiner,Dornstetten,West,Wirtschaft,Natur/Umwelt,nein,ja,nein,,,
+vstoertzenbach,Person,Veronika Stoertzenbach,w,keiner,Stuttgart,Mitte,Kultur/Musik,NA,nein,nein,nein,,,
+itress,Person,Ingeborg Tress,w,keiner,Hayingen,Ost,Wirtschaft,Natur/Umwelt,nein,nein,nein,,,
+funtersteller,Person,Franz Untersteller,m,Minister a.D.,Nürtingen,Mitte,Politik,Natur/Umwelt,nein,ja,nein,,,
+fvogel,Person,Friedemann Vogel,m,keiner,Stuttgart,Mitte,Kultur/Tanz,Wissenschaft,nein,ja,nein,,,
+,,,,,,,,,,,,,,
+org_mpg,Organisation,Max-Planck-Gesellschaft,,,,,,,,,,Forschungseinrichtung,national,Wissenschaft
+org_agapedia,Organisation,Agapedia Stiftung gGmbH,,,,,,,,,,Stiftung,international,Zivilgesellschaft
+org_freilichtmuseum_beuren,Organisation,Freilichtmuseum Beuren,,,,,,,,,,Behörde/Museum,regional,Kultur
+org_scherzachtaler,Organisation,Scherzachtaler Blasmusik,,,,,,,,,,Verein,regional,Kultur
+org_cdu,Organisation,CDU,,,,,,,,,,Partei,national,Politik
+org_giz,Organisation,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ),,,,,,,,,,Behörde,international,Zivilgesellschaft
+org_unicef_de,Organisation,Deutsches Komitee UNICEF,,,,,,,,,,Verein,national,Zivilgesellschaft
+org_stiftung_liebenau,Organisation,Stiftung Liebenau,,,,,,,,,,Stiftung,regional,Zivilgesellschaft
+org_vfb,Organisation,VfB Stuttgart,,,,,,,,,,Unternehmen,national,Sport
+org_dfb,Organisation,Deutscher Fußball-Bund (DFB),,,,,,,,,,Verband,national,Sport
+org_achern_miteinander,Organisation,Achern Miteinander e.V.,,,,,,,,,,Verein,lokal,Zivilgesellschaft
+org_dfl_stiftung,Organisation,Stiftung Deutsche Fußball Liga,,,,,,,,,,Stiftung,national,Sport
+org_dla,Organisation,Deutscher Leichtathletikverband,,,,,,,,,,Verband,national,Sport
+org_franz_keller,Organisation,Weingut Franz Keller,,,,,,,,,,Unternehmen,regional,Wirtschaft
+org_sc_freiburg,Organisation,SC Freiburg,,,,,,,,,,Unternehmen,national,Sport
+org_swr,Organisation,Südwestrundfunk (SWR),,,,,,,,,,Medien,regional,Medien
+org_kalimera,Organisation,Deutsch-Griechische Kulturinitiative Kalimera e.V.,,,,,,,,,,Verein,lokal,Kultur
+org_forum_kulturen,Organisation,Forum Kulturen Stuttgart e.V.,,,,,,,,,,Verein,lokal,Kultur
+org_unesco_mannheim,Organisation,UNESCO City of Music Mannheim,,,,,,,,,,Initiative,international,Kultur
+org_global_parliament,Organisation,Global Parliament of Mayors,,,,,,,,,,Initiative,international,Politik
+org_zpm,Organisation,ZPM-Initiative BW,,,,,,,,,,Initiative,regional,Wissenschaft
+org_forum_gesundheit,Organisation,Forum Gesundheitsstandort BW,,,,,,,,,,Initiative,regional,Wissenschaft
+org_enbw,Organisation,EnBW Energie Baden-Württemberg AG,,,,,,,,,,Unternehmen,national,Wirtschaft
+org_strategiedialog_auto,Organisation,Strategiedialog Automobilwirtschaft BW,,,,,,,,,,Initiative,regional,Wirtschaft
+org_lsvbw,Organisation,Landessportverband Baden-Württemberg,,,,,,,,,,Verband,regional,Sport
+org_wlsb,Organisation,Württembergischer Landessportbund,,,,,,,,,,Verband,regional,Sport
+org_nationalpark_sw,Organisation,Nationalpark Schwarzwald,,,,,,,,,,Behörde,regional,Natur/Umwelt
+org_luchsinitiative,Organisation,Luchsinitiative Baden-Württemberg,,,,,,,,,,Initiative,regional,Natur/Umwelt
+org_schmalz_gmbh,Organisation,J. Schmalz GmbH,,,,,,,,,,Unternehmen,international,Wirtschaft
+org_campus_schwarzwald,Organisation,Campus Schwarzwald,,,,,,,,,,Hochschule,regional,Wissenschaft
+org_ihk_nordschwarzwald,Organisation,IHK Nordschwarzwald,,,,,,,,,,Verband,regional,Wirtschaft
+org_schmalz_stiftung,Organisation,Schmalz Stiftung,,,,,,,,,,Stiftung,international,Zivilgesellschaft
+org_pso_stuttgart,Organisation,Paulus Symphonie Orchester Stuttgart,,,,,,,,,,Verein,regional,Kultur
+org_uni_stuttgart,Organisation,Universität Stuttgart,,,,,,,,,,Hochschule,regional,Wissenschaft
+org_livemusicnow,Organisation,Yehudi Menuhin Live Music Now Stuttgart e.V.,,,,,,,,,,Verein,lokal,Kultur
+org_tress_bw,Organisation,Tress Gastronomie / Bio-Manufaktur,,,,,,,,,,Unternehmen,regional,Wirtschaft
+org_oeko_institut,Organisation,Öko-Institut,,,,,,,,,,Forschungseinrichtung,national,Natur/Umwelt
+org_under2,Organisation,Under2 Coalition,,,,,,,,,,Initiative,international,Natur/Umwelt
+org_stuttgarter_ballett,Organisation,Stuttgarter Ballett,,,,,,,,,,Unternehmen,international,Kultur
+org_uni_tuebingen,Organisation,Universität Tübingen,,,,,,,,,,Hochschule,regional,Wissenschaft
+org_hfm_mannheim,Organisation,Hochschule für Musik Mannheim,,,,,,,,,,Hochschule,regional,Kultur
