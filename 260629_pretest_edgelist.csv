@@ -1,0 +1,52 @@
+Source,Target,Rolle,Beziehungstyp,Gewicht
+aakhtar,org_mpg,"Beschäftigt/tätig, Vizepräsidentin",Person-Organisation,3
+mbarth,org_agapedia,"Gründer/in, Geschäftsführung",Person-Organisation,3
+sbarth,org_agapedia,"Gründer/in, Geschäftsführung",Person-Organisation,3
+scornelius,org_freilichtmuseum_beuren,"Beschäftigt/tätig, Leiterin",Person-Organisation,3
+ngaelle,org_scherzachtaler,Gründer/in,Person-Organisation,3
+tgoenner,org_cdu,Mitglied,Person-Organisation,3
+tgoenner,org_giz,"Vorstand/Präsidium, Vorstandssprecherin",Person-Organisation,3
+tgoenner,org_unicef_de,"Mitglied, Ehrenamtlich",Person-Organisation,3
+tgoenner,org_stiftung_liebenau,Aufsichtsrat,Person-Organisation,3
+tgoenner,org_vfb,Aufsichtsrat,Person-Organisation,3
+thitzlsperger,org_vfb,"Beschäftigt/tätig, Vorstandsvorsitzender",Person-Organisation,3
+thitzlsperger,org_dfb,Botschafter/in,Person-Organisation,3
+nkappel,org_dfl_stiftung,Kuratorium,Person-Organisation,3
+nkappel,org_dla,"Beschäftigt/tätig, Inklusionsbeauftragter",Person-Organisation,3
+fwkeller,org_franz_keller,"Beschäftigt/tätig, Inhaber",Person-Organisation,3
+fwkeller,org_dfb,"Vorstand/Präsidium, Präsident",Person-Organisation,3
+fwkeller,org_sc_freiburg,"Vorstand/Präsidium, Präsident",Person-Organisation,3
+akoktsidou,org_swr,"Beschäftigt/tätig, Beauftragte",Person-Organisation,3
+akoktsidou,org_kalimera,Vorstand/Präsidium,Person-Organisation,3
+akoktsidou,org_forum_kulturen,Mitglied,Person-Organisation,3
+pkurz,org_unesco_mannheim,"Beschäftigt/tätig, Initiator",Person-Organisation,3
+pkurz,org_global_parliament,"Gründer/in, Mitglied",Person-Organisation,3
+npmalek,org_zpm,"Gründer/in, Sprecher",Person-Organisation,3
+npmalek,org_forum_gesundheit,"Vorstand/Präsidium, Sprecher",Person-Organisation,3
+fpmastiaux,org_enbw,"Beschäftigt/tätig, Vorstandsvorsitzender",Person-Organisation,3
+fpmastiaux,org_strategiedialog_auto,Mitglied,Person-Organisation,3
+emenzerhaasis,org_lsvbw,"Vorstand/Präsidium, Präsidentin",Person-Organisation,3
+emenzerhaasis,org_wlsb,"Vorstand/Präsidium, Vizepräsidentin",Person-Organisation,3
+kmrueckert,org_nationalpark_sw,"Beschäftigt/tätig, Brückenbauer",Person-Organisation,3
+vschiltenwolf,org_luchsinitiative,"Vorstand/Präsidium, 1. Vorsitzende",Person-Organisation,3
+kschmalz,org_schmalz_gmbh,"Beschäftigt/tätig, Geschäftsführer",Person-Organisation,3
+kschmalz,org_campus_schwarzwald,"Gründer/in, Vorstand",Person-Organisation,3
+kschmalz,org_ihk_nordschwarzwald,"Vorstand/Präsidium, Vizepräsident",Person-Organisation,3
+wschmalz,org_schmalz_gmbh,"Beschäftigt/tätig, Geschäftsführer",Person-Organisation,3
+wschmalz,org_schmalz_stiftung,"Gründer/in, Vorstand",Person-Organisation,3
+vstoertzenbach,org_pso_stuttgart,"Gründer/in, Dirigentin",Person-Organisation,3
+vstoertzenbach,org_uni_stuttgart,"Beschäftigt/tätig, Universitätsmusikdirektorin",Person-Organisation,3
+vstoertzenbach,org_livemusicnow,Vorstand/Präsidium,Person-Organisation,3
+itress,org_tress_bw,"Beschäftigt/tätig, Inhaberin",Person-Organisation,3
+funtersteller,org_oeko_institut,Vorstand/Präsidium,Person-Organisation,3
+funtersteller,org_under2,"Botschafter/in, Mitinitiator",Person-Organisation,3
+fvogel,org_stuttgarter_ballett,"Beschäftigt/tätig, Erster Solist",Person-Organisation,3
+fvogel,org_uni_tuebingen,"Mitglied, assoziiert",Person-Organisation,2
+ahelfrich,org_hfm_mannheim,"Beschäftigt/tätig, Dozentin",Person-Organisation,3
+mhuber,org_achern_miteinander,"Gründer/in, Vorsitzende",Person-Organisation,3
+mbarth,sbarth,personell,Person-Person,3
+kschmalz,wschmalz,personell,Person-Person,3
+tgoenner,thitzlsperger,institutionell,Person-Person,2
+thitzlsperger,fwkeller,institutionell,Person-Person,2
+fpmastiaux,funtersteller,institutionell,Person-Person,2
+kmrueckert,kschmalz,institutionell,Person-Person,2
